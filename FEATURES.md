@@ -162,3 +162,4 @@ AdAstraGPT soll das **intelligenteste, autonomste Crypto Trading System** werden
 4. **Extensible** - Plugin-based Architecture
 5. **Open Source** - Transparent & Auditable
 
+

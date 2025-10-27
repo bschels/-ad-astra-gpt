@@ -66,3 +66,4 @@ KEINE DISCLAIMER!
 
 **Das GPT ist jetzt ein direkter, entscheidungsstarker Finanzberater! 💪**
 
+

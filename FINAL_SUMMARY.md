@@ -187,3 +187,4 @@ Ende 2030: ~€300k - €500k (bei 20% p.a.)
 
 **Los geht's zur Million! 🎯💰**
 
+

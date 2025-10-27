@@ -207,3 +207,4 @@ Jahr 10 (2035): €500k → Ziel: €1M
 
 **Soll ich die Fixes implementieren oder erstmal deployen und testen?**
 
+

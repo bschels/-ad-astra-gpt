@@ -247,3 +247,4 @@ GPT → Backend → GET /portfolio/analyze → "Verkaufe 5% ETH, kaufe 5% Gold"
 4. **API Key** - Für Coinbase setzen
 5. **Integration** - GPT Actions connecten
 
+

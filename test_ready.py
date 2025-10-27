@@ -61,3 +61,4 @@ print("✅ System Test Complete!")
 print("\n→ Deploy mit: fly deploy")
 print("→ Oder: python main.py (lokal)")
 
+

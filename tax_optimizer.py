@@ -212,3 +212,4 @@ class TaxOptimizer:
             "total_potential_tax_liability": (target_amount - total_tax_free) * 0.265 if (target_amount - total_tax_free) > 0 else 0  # ~26.5% in Germany
         }
 
+

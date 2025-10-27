@@ -53,3 +53,4 @@ echo "  curl https://ad-astra-gpt.fly.dev/health"
 echo "  curl https://ad-astra-gpt.fly.dev/goal/status"
 echo ""
 
+
