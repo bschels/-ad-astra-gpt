@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "symbol": "ETH",
+      "quantity": 2.10,
+      "avg_buy": 3300
+    },
+    {
+      "symbol": "SOL",
+      "quantity": 15.02,
+      "avg_buy": 201.65
+    },
+    {
+      "symbol": "ONDO",
+      "quantity": 12250,
+      "avg_buy": 0.65
+    },
+    {
+      "symbol": "FET",
+      "quantity": 2450,
+      "avg_buy": 0.30
+    },
+    {
+      "symbol": "USDC",
+      "quantity": 770,
+      "avg_buy": 1.0
+    }
+  ],
+  "cash_eur": 0,
+  "gold_oz": 8.04,
+  "gold_avg_buy": 3960,
+  "timestamp": "2025-10-28T08:30:00+01:00",
+  "mantra": "1 Million bis 2030 - Unveränderlich",
+  "monthly_min_contribution": 200
+}
+

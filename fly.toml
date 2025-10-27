@@ -1,0 +1,31 @@
+app = "ad-astra-gpt"
+primary_region = "fra"
+
+# Set data directory for persistence
+[env]
+  DATA_DIR = "/data"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+[[http_service.checks]]
+  grace_period = "1s"
+  interval = "15s"
+  method = "GET"
+  timeout = "2s"
+  path = "/health"
+
+[mounts]
+  destination = "/data"
+  source = "adastra_data_vol"
+
+[env]
+  PORT = "8080"
